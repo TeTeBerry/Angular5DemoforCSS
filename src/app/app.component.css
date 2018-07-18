@@ -1,0 +1,188 @@
+.nav{
+    background: rgb(43, 41, 46);
+    text-decoration: none;   
+   
+    height: 60px;
+    border-style: none;
+
+}
+
+nav a{
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    padding-top:20px;
+    border-style: none;
+
+
+}
+
+#flati{
+    color: white;
+    font-size: 20px;
+    margin: 0;
+    padding: 5px;
+    padding-left: 300px;
+    padding-right: 100px;
+    font-weight:none;
+    font-size: 30px;
+}
+
+#nav-home-tab{
+    background: rgba(7, 153, 238, 0.808);
+    
+}
+
+.firstcard{
+    background: rgba(15, 128, 194, 0.808);
+    height: 380px;
+}
+
+.firstcard h5{
+    text-align: center;
+    padding-top:40px;
+    font-size: 40px;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.firstcard h6{
+    text-align: center;
+    padding-top:40px;
+    font-size: 20px;
+    color: azure;
+    padding-left: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.firstcard a {
+     background: rgb(65, 194, 236);
+     border-radius: none;
+     border-style: none;
+     padding-top: 10px;
+     margin-bottom: 100px;
+     margin-left: 140px;
+    
+
+}
+
+.firstcard img{
+   margin-left: 180px;
+   margin-bottom: 50px;
+   
+}
+
+.subcard{
+    background:rgb(230, 228, 224);
+    text-align: center;
+    color:rgb(133, 132, 131);
+    font-family: cursive;
+}
+.subcard p span {
+    color: white;
+    background: aqua;
+
+}
+.subcard p a{
+    color: aqua;
+}
+.subcard p b{
+    color:rgb(121, 118, 118);
+}
+.max{
+    background: hsl(0, 0%, 98%);
+}
+.tool{
+   padding-top: 30px;
+   padding-left: 250px;
+   height: 280px;
+   padding-right: 200px;
+  
+}
+.card{
+   background: rgb(212, 209, 209);
+   border-style: none;
+   border-radius: none;
+  
+}
+.tool img{
+  border-style: none;
+  height: 50px;
+  width: 50px;
+  padding: 10px;
+  margin-left: 45px;
+}
+.tool h5{
+    padding:0;
+    font-size: 10px;
+    margin-left: 35px;
+}
+.tool h3{
+    font-size: 10px;
+    color:aqua;
+}
+.tool p{
+    font-size: 10px;
+}
+
+.col-sm-6{
+  padding-right:50px;
+   padding-left: 200px;
+   padding-bottom: 200px;
+   
+}
+.col-sm-6 h5{
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 10px;
+    color: rgb(163, 162, 162);
+}
+.col-sm-6 p{
+   font-size: 10px;
+   margin-left: 10px;
+   color: rgb(163, 162, 162);
+}
+
+.col-sm-6 p span{
+    color: black;
+
+}
+#recent{
+    background: none;
+
+}
+
+#cata img{
+  height: 100x;
+  width: 135px;
+}
+
+#cata{
+   background: rgb(35, 35, 41);
+   height: 220px;
+ 
+}
+
+#cata h5{
+  font-size: 10px;
+  color: rgb(241, 241, 237);
+  text-align: center;
+}
+
+#cata p{
+    font-size: 8px;
+    color: rgb(241, 241, 237);
+}
+
+.card-deck{
+height: 300px;
+padding-bottom: 40px;
+
+}
+.min{
+    padding-right: 200px;
+    height: 300px;
+    padding-bottom: 20px;
+}
